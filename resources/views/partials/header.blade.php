@@ -1,5 +1,5 @@
 <header>
 
-<h1>placeholder header</h1>
+<h1 class="text-center">Lista film</h1>
 
 </header>
